@@ -57,13 +57,13 @@
 // @description:uk Перенаправлення соціальних медіа-платформ на їхні головні сторінки, дружні до приватності
 // @description:zh 将社交媒体平台重定向到其隐私友好的首页
 // @description:zh-CN 将社交媒体平台重定向到其隐私友好的首页
-// @namespace https://github.com/dybdeskarphet/privacy-redirector
+// @namespace https://github.com/facaikotei/privacy-redirector
 // @author Ahmet Arda Kavakcı
 // @license GPLv3
 // @version 1.5.8
-// @downloadURL https://raw.githubusercontent.com/dybdeskarphet/privacy-redirector/main/privacy-redirector.user.js
-// @supportURL https://github.com/dybdeskarphet/privacy-redirector
-// @updateURL https://raw.githubusercontent.com/dybdeskarphet/privacy-redirector/main/privacy-redirector.user.js
+// @downloadURL https://raw.githubusercontent.com/facaikotei/privacy-redirector/main/privacy-redirector.user.js
+// @supportURL https://github.com/facaikotei/privacy-redirector
+// @updateURL https://raw.githubusercontent.com/facaikotei/privacy-redirector/main/privacy-redirector.user.js
 // @run-at document-start
 // @match *://*.bandcamp.com/*
 // @match *://*.fandom.com/*
