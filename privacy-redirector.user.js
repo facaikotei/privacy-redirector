@@ -60,7 +60,7 @@
 // @namespace https://github.com/facaikotei/privacy-redirector
 // @author Ahmet Arda Kavakcı
 // @license GPLv3
-// @version 1.5.8
+// @version 1.5.8.1
 // @downloadURL https://raw.githubusercontent.com/facaikotei/privacy-redirector/main/privacy-redirector.user.js
 // @supportURL https://github.com/facaikotei/privacy-redirector
 // @updateURL https://raw.githubusercontent.com/facaikotei/privacy-redirector/main/privacy-redirector.user.js
@@ -138,7 +138,7 @@ let reuters = [false, true];
 let soundcloud = [false, true];
 let stackoverflow = [false, true];
 let tiktok = [false, true];
-let twitter = [true, true];
+let twitter = [false, true];
 let wikipedia = [false, true];
 let youtube = [false, true];
 let twitch = [false, true];
@@ -382,10 +382,13 @@ const Instances = {
   mediumrip: ["medium.rip"],
   neuters: ["neuters.de", "neuters.privacyfucking.rocks", "nu.vern.cc"],
   nitter: [
+    /*
     "nitter.net",
     "nitter.unixfox.eu",
     "nitter.esmailelbob.xyz",
+    */
     "nitter.poast.org",
+    /*
     "nitter.privacydev.net",
     "nitter.projectsegfau.lt",
     "nitter.soopy.moe",
@@ -399,11 +402,16 @@ const Instances = {
     "nitter.salastil.com",
     "n.opnxng.com",
     "nitter.ktachibana.party",
+    */
+    "xcancel.com"
   ],
   pixivfe: [
+    /*
     "pixivfe.drgns.space",
     "pixivfe.ducks.party",
+    */
     "pixiv.perennialte.ch",
+    "pixivfe.thebunny.zone",
   ],
   proxitok: [
     "proxitok.pabloferreiro.es",
