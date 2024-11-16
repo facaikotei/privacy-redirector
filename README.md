@@ -21,11 +21,11 @@ You can install the userscript directly from [Greasyfork](https://greasyfork.org
 
 ### Manual Installation
 
-By [clicking this URL](https://raw.githubusercontent.com/dybdeskarphet/privacy-redirector/main/privacy-redirector.user.js), your userscript manager should detect the script automatically. If it doesn't:
+By [clicking this URL](https://raw.githubusercontent.com/facaikotei/privacy-redirector/main/privacy-redirector.user.js), your userscript manager should detect the script automatically. If it doesn't:
 
 1. **Copy the Script**
 
-   Copy the contents of [privacy-redirector.user.js](https://raw.githubusercontent.com/dybdeskarphet/privacy-redirector/main/privacy-redirector.user.js).
+   Copy the contents of [privacy-redirector.user.js](https://raw.githubusercontent.com/facaikotei/privacy-redirector/main/privacy-redirector.user.js).
 
 2. **Userscript Manager**
 
