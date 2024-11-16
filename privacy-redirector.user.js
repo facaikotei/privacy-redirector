@@ -60,7 +60,7 @@
 // @namespace https://github.com/facaikotei/privacy-redirector
 // @author Ahmet Arda Kavakcı
 // @license GPLv3
-// @version 1.5.8.1
+// @version 1.5.8.2
 // @downloadURL https://raw.githubusercontent.com/facaikotei/privacy-redirector/main/privacy-redirector.user.js
 // @supportURL https://github.com/facaikotei/privacy-redirector
 // @updateURL https://raw.githubusercontent.com/facaikotei/privacy-redirector/main/privacy-redirector.user.js
@@ -154,7 +154,7 @@ let mediumFrontend = "scribe"; // accepts libmedium, scribe, mediumrip
 let hackernewsFrontend = "better"; // accepts better, worker
 
 // OTHER SETTINGS
-let keepHistory = true; // keeps farside.link in the browser history
+let keepHistory = false; // keeps farside.link in the browser history
 
 // // // // // // // // // // // // //
 
