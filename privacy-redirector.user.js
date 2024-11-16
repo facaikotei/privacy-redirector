@@ -154,7 +154,7 @@ let mediumFrontend = "scribe"; // accepts libmedium, scribe, mediumrip
 let hackernewsFrontend = "better"; // accepts better, worker
 
 // OTHER SETTINGS
-let keepHistory = false; // keeps farside.link in the browser history
+let keepHistory = true; // keeps farside.link in the browser history
 
 // // // // // // // // // // // // //
 
